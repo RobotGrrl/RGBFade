@@ -3,6 +3,10 @@
  -------------------
  robotgrrl.com
  
+ Based off of The Custom Geek's "Breathing" Sleep
+ LED code:
+ http://thecustomgeek.com/?p=37
+ 
  Fades some RGB LEDs and colour cycles them, like
  the cool "sleeping" LED effect!
  We just attach the LEDs to the Arduino's PWM out
